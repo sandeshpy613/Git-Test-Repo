@@ -1,3 +1,4 @@
+print("Its newly add line to be printed")
 name = "World"  # String
 age = 30      # Integer
 height = 5.9    # Float
